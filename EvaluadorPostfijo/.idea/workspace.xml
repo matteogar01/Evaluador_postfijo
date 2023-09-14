@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4876747-caec-484f-91c2-08348a5869d7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="1p4az2wi1EfYHYOtbr88IJ4Y9ts" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenovo/IdeaProjects/EvaluadorPostfijo&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="universidadean.desarrollosw.postfijo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.EvaluadorPostfijoTest">
+    <configuration name="EvaluadorPostfijoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EvaluadorPostfijo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="universidadean.desarrollosw.postfijo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="universidadean.desarrollosw.postfijo" />
+      <option name="MAIN_CLASS_NAME" value="universidadean.desarrollosw.postfijo.EvaluadorPostfijoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvaluadorPostfijoTest.pruebaConvertir" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EvaluadorPostfijo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="universidadean.desarrollosw.postfijo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="universidadean.desarrollosw.postfijo" />
+      <option name="MAIN_CLASS_NAME" value="universidadean.desarrollosw.postfijo.EvaluadorPostfijoTest" />
+      <option name="METHOD_NAME" value="pruebaConvertir" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvaluadorPostfijoTest.pruebaEstaBalanceada" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EvaluadorPostfijo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="universidadean.desarrollosw.postfijo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="universidadean.desarrollosw.postfijo" />
+      <option name="MAIN_CLASS_NAME" value="universidadean.desarrollosw.postfijo.EvaluadorPostfijoTest" />
+      <option name="METHOD_NAME" value="pruebaEstaBalanceada" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvaluadorPostfijoTest.pruebaFinal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EvaluadorPostfijo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="universidadean.desarrollosw.postfijo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="universidadean.desarrollosw.postfijo" />
+      <option name="MAIN_CLASS_NAME" value="universidadean.desarrollosw.postfijo.EvaluadorPostfijoTest" />
+      <option name="METHOD_NAME" value="pruebaFinal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvaluadorPostfijoTest.pruebaReemplazarDelimitadores" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EvaluadorPostfijo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="universidadean.desarrollosw.postfijo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="universidadean.desarrollosw.postfijo" />
+      <option name="MAIN_CLASS_NAME" value="universidadean.desarrollosw.postfijo.EvaluadorPostfijoTest" />
+      <option name="METHOD_NAME" value="pruebaReemplazarDelimitadores" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EvaluadorPostfijoTest" />
+        <item itemvalue="JUnit.EvaluadorPostfijoTest.pruebaFinal" />
+        <item itemvalue="JUnit.EvaluadorPostfijoTest.pruebaConvertir" />
+        <item itemvalue="JUnit.EvaluadorPostfijoTest.pruebaReemplazarDelimitadores" />
+        <item itemvalue="JUnit.EvaluadorPostfijoTest.pruebaEstaBalanceada" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4876747-caec-484f-91c2-08348a5869d7" name="Default Changelist" comment="" />
+      <created>1614445080478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614445080478</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/universidadean/desarrollosw/postfijo/EvaluadorPostfijoTest.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/universidadean/desarrollosw/postfijo/EvaluadorPostfijoTest.java</url>
+          <line>56</line>
+          <properties class="universidadean.desarrollosw.postfijo.EvaluadorPostfijoTest" method="pruebaReemplazarDelimitadores">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/universidadean/desarrollosw/postfijo/EvaluadorPostfijoTest.java</url>
+          <line>72</line>
+          <properties class="universidadean.desarrollosw.postfijo.EvaluadorPostfijoTest" method="pruebaConvertir">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/universidadean/desarrollosw/postfijo/EvaluadorPostfijoTest.java</url>
+          <line>46</line>
+          <properties class="universidadean.desarrollosw.postfijo.EvaluadorPostfijoTest" method="pruebaEstaBalanceada">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/universidadean/desarrollosw/postfijo/EvaluadorPostfijoTest.java</url>
+          <line>115</line>
+          <properties class="universidadean.desarrollosw.postfijo.EvaluadorPostfijoTest" method="pruebaFinal">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
